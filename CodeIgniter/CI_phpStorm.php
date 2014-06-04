@@ -5,7 +5,9 @@
  *
  * Implements code completion for CodeIgniter in phpStorm
  * phpStorm indexes all class constructs, so if this file is in the project it will be loaded.
- *
+ * -------------------------------------------------------------------------------
+ * Right click on system/core/Controller.php and Mark As Plain Text
+ * -------------------------------------------------------------------------------
  *
  * This property values were borrowed from another site on the internet
  * This is just a better way to implement it, rather than editing core CI files
